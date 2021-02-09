@@ -1,4 +1,4 @@
-#Reduced Multidimensional Scaling
+# Reduced Multidimensional Scaling
 
 The reduced multidimensional scaling (RMDS) is a method to analyse very large data sets that could be not be handled by standard multidimensional scaling (MDS). The method is described in a paper in revision.
 
